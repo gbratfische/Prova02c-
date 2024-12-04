@@ -1,0 +1,7 @@
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\bin\Debug\ProvaLG02.exe.config
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\bin\Debug\ProvaLG02.exe
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\bin\Debug\ProvaLG02.pdb
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\obj\Debug\ProvaLG02.csproj.AssemblyReference.cache
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\obj\Debug\ProvaLG02.csproj.CoreCompileInputs.cache
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\obj\Debug\ProvaLG02.exe
+C:\Seguranca da Informacao\Apps\Visual Studio\repos\ProvaLG02\ProvaLG02\obj\Debug\ProvaLG02.pdb
